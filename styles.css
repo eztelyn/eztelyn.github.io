@@ -9,6 +9,7 @@ body{
 section{
     height: 500px;
     display: flexbox;
+    display:ruby-text-container;
     flex-wrap: wrap;
     justify-items: center;
     text-align: center;
