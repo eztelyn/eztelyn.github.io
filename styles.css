@@ -28,14 +28,14 @@ h1{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    line-height: 200px;
+  
 }
 .detalle {
     border: 6px silver coral;
     border-radius: 15px;
     width:300px;
     margin: 20px;
-    line-height: 200px;
+   
 }
 .detalle img{
     width:90%;
