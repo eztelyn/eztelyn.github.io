@@ -31,10 +31,15 @@ h1{
   
 }
 .detalle {
-    border: 6px silver coral;
     border-radius: 15px;
     width:300px;
     margin: 20px;
+    background: #A8C7D6;
+    min-height:400px;
+    top:50%;
+    left: 50%;
+    max-width: 50%;
+    text-align: center;
    
 }
 .detalle img{
