@@ -12,6 +12,7 @@ section{
     flex-wrap: wrap;
     justify-items: center;
     text-align: center;
+    line-height: 200px; 
 }
 section#hero{
     background-color: lightgrey;
